@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.8](https://github.com/kenji-miyake/cspell-dicts/compare/@cspell/dict-svelte@1.0.7...@cspell/dict-svelte@1.0.8) (2025-10-09)
+
+
+### Updates and Bug Fixes
+
+* Improve install documentation ([#4640](https://github.com/kenji-miyake/cspell-dicts/issues/4640)) ([ce83729](https://github.com/kenji-miyake/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+
 ## [1.0.7](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-svelte@1.0.6...@cspell/dict-svelte@1.0.7) (2025-07-09)
 
 
