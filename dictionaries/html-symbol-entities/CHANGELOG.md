@@ -43,6 +43,13 @@ Co-authored-by: Nick Schonning <nschonni@gmail.com>
 
 
 
+## [4.0.5](https://github.com/kenji-miyake/cspell-dicts/compare/@cspell/dict-html-symbol-entities@4.0.4...@cspell/dict-html-symbol-entities@4.0.5) (2025-10-09)
+
+
+### Updates and Bug Fixes
+
+* Improve install documentation ([#4640](https://github.com/kenji-miyake/cspell-dicts/issues/4640)) ([ce83729](https://github.com/kenji-miyake/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+
 ## [4.0.4](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-html-symbol-entities@4.0.3...@cspell/dict-html-symbol-entities@4.0.4) (2025-07-09)
 
 
