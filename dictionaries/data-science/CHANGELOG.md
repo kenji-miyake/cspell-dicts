@@ -1,5 +1,13 @@
 # Change Log
 
+## [2.0.10](https://github.com/kenji-miyake/cspell-dicts/compare/@cspell/dict-data-science@2.0.9...@cspell/dict-data-science@2.0.10) (2025-10-09)
+
+
+### Updates and Bug Fixes
+
+* add `meshgrid` to `python` and `data-science` ([#4822](https://github.com/kenji-miyake/cspell-dicts/issues/4822)) ([f6bfbc2](https://github.com/kenji-miyake/cspell-dicts/commit/f6bfbc21a778be2b4d0d4ab9340317b72d4e1da5))
+* Improve install documentation ([#4640](https://github.com/kenji-miyake/cspell-dicts/issues/4640)) ([ce83729](https://github.com/kenji-miyake/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+
 ## [2.0.9](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-data-science@2.0.8...@cspell/dict-data-science@2.0.9) (2025-07-09)
 
 
